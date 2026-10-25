@@ -1,6 +1,6 @@
 # Análise de corpus textuais para TTS
 
-Caderno de Google Colab para explorar a composición de corpus textuais destinados á síntese de voz (TTS). Permite analizar os tipos de frases segundo a súa puntuación, calcular estatísticas de lonxitude e comparar a distribución de cada categoría coa do corpus completo.
+Caderno de Google Colab para explorar a composición de corpus textuais destinados á síntese de voz (TTS) en galego. Permite analizar os tipos de frases segundo a súa puntuación, calcular estatísticas de lonxitude e comparar a distribución de cada categoría coa do corpus completo.
 
 ## Funcionalidades
 
